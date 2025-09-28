@@ -1,2 +1,3 @@
-# Hello-World
-First Repository
+# My First repo
+
+This is my first repo. That's why I've called this repo "Hello world"!
